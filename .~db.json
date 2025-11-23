@@ -83,11 +83,6 @@
       "title": "Test",
       "genreId": 1,
       "id": 14
-    },
-    {
-      "title": "Test Updated",
-      "genreId": 2,
-      "id": 15
     }
   ],
   "reviews": [
